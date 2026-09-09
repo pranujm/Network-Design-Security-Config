@@ -14,7 +14,7 @@ Divided the company's network into logically separated subnets to organize depar
 
 **Network Traffic Analysis:** 
 
-Captured live network traffic while accessing websites and used Wireshark filters to isolate and examine HTTPS traffic over TCP port 443. Analyzed captured packets to better understand how web traffic flows between a client and external websites.
+Captured live network traffic while accessing websites and used Wireshark filters to isolate and examine HTTPS traffic over TCP port 443. Analyzed captured packets to better understand how web traffic flows between a client and external websites (Wikipedia, in this case).
 
 **Firewall Configuration & Network Security:** 
 
